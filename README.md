@@ -17,7 +17,7 @@ Learn more about other Regex commands in UiPath.
 3) Insert Is Text Matching > Properties Panel inside the patterns box put the a Regular expresion > insert the variable in Text to search in box > in the Result box make a variable
   * Result Variable: boolean var
 
-   ![image](https://github.com/user-attachments/assets/29f81b57-822e-4a67-bc37-dab765bd40cb)
+     ![image](https://github.com/user-attachments/assets/29f81b57-822e-4a67-bc37-dab765bd40cb)
 
 4) Insert a new sequance > Assign
 
